@@ -54,10 +54,7 @@ async def createChat(name):
 
             avv = await clientM.get_entity('|'+name+'|')
             
-            await client(EditBannedRequest(avv, 'ablakotics', ChannelBannedRights(
-                until_date=None,
-                view_messages=True
-            ))) # removing an extra participant
+            await clientM(functions.messages.DeleteChatUserRequest(avv, 'ablakotics')) # removing an extra participant
             
             await clientM(functions.messages.EditChatDefaultBannedRightsRequest(avv,types.ChatBannedRights(
                 send_messages=True,
