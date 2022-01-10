@@ -34,6 +34,11 @@ Features
 Appearance
 ----------
 
+![Image alt](https://github.com/Rikki1004/img/blob/main/teleDisk/img%20(1).png)
+
+![Image alt](https://github.com/Rikki1004/img/blob/main/teleDisk/img%20(2).png)
+
+![Image alt](https://github.com/Rikki1004/img/blob/main/teleDisk/img%20(3).png)
 
 Next steps
 ----------
