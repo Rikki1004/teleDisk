@@ -1,7 +1,7 @@
 TeleDisk
 ========
 
-|logo| **TeleDisk** is a **telethone**-based solution that gives you the ability to store an unlimited number of files directly in your telegram
+**TeleDisk** is a **telethone**-based solution that gives you the ability to store an unlimited number of files directly in your telegram
 
 What is this?
 -------------
@@ -12,12 +12,13 @@ Telegram is a popular messaging application. This application is designed to mak
 Installing and launch
 ---------------------
 
-.. code-block:: sh
-
-  pip install -r requirements.txt
-  # in file **teleDisk5.3.py** replace hash and id you app (cliId and cliHash values)
-  # get here: https://my.telegram.org
-  python teleDisk5.3.py
+ 1) pip install -r requirements.txt
+ 
+ 2) in file **teleDisk5.3.py** replace hash and id you app (cliId and cliHash values)
+ 
+ *get here: https://my.telegram.org
+ 
+ 3) python teleDisk5.3.py
 
 
 Features
